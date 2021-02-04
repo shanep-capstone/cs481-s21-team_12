@@ -22,6 +22,10 @@ we'll be going into Dr.Yang's lab at some point later on this semester to test o
 if we do end up doing this. During our work on this project, we will be checking in with Dr.Yang roughly once a month and refer to Professor Panter for
 more techincal questions/issues or things relating to assignments due in the class.
 
+### Feedback from Shane
+
+Nice! I am excited to see this project! Let me know if there is anything you need from me.
+
 ### Tech lab
 
 TODO:[Tech Lab](https://shanep.github.io/capstone/labs/tech/)
